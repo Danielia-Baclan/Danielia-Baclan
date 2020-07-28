@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**Danielia-Baclan/Danielia-Baclan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Danielia Jeniffer, do Brasil (🇧🇷). Sou formada em Análise e Desencolvimento de Sistemas, atualmente sou estágiaria no Empresômetro - Inteligencia de Mercado em Curitiba(PR).
 
-Here are some ideas to get you started:
+No meu tempo livre, gosto de assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵) e gosto muito de estudar novas tecnologias e codar :computer:. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minhas redes: 
+[! [LinkedIn] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo= Linkedin & logoColor = branco & link = https: //www.linkedin.com/in/danielia-jeniffer)] (https://www.linkedin.com/in/danielia-jeniffer)
+
+
+O que estou fazendo no momento?
+
+Veja meu projeto desenvolvido na Imersão React da Alura:
+[! [DaniFlix]] (https://dani-flix.vercel.app/)
