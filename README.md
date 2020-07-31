@@ -1,6 +1,6 @@
 ### Olá 👋😄
 
-Meu nome é Danielia Jeniffer, do Brasil (🇧🇷). Sou formada em Análise e Desencolvimento de Sistemas, atualmente sou estágiaria no Empresômetro - Inteligencia de Mercado em Curitiba(PR).
+Meu nome é Danielia Jeniffer, do Brasil (🇧🇷). Sou formada em Análise e Desencolvimento de Sistemas, atualmente sou Gerente assitente na Nature Nutri em Londrina(PR).
 
 No meu tempo livre, gosto de assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵) e gosto muito de estudar novas tecnologias e codar :computer:. 
 
