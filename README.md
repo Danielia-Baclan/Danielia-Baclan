@@ -10,6 +10,5 @@ Minhas redes:
 
 - O que estou fazendo no momento?
 
-Veja meu projeto desenvolvido na Imersão React da Alura:
-
-[Projeto React - DaniFlix!](https://dani-flix.vercel.app/)
+Aperfeiçoando conhecimentos em HTML e CSS com o curso do Professor Gustavo Guanabara:
+[Clique aqui para saber mais](https://www.cursoemvideo.com/course/novo-curso-html5-e-css3-100-atual-modulo-1/)
