@@ -1,6 +1,6 @@
 ### Olá 👋😄
 
-Meu nome é Danielia Jeniffer, do Brasil (🇧🇷). Sou formada em Análise e Desencolvimento de Sistemas, atualmente sou Gerente assitente na Nature Nutri em Londrina(PR).
+Meu nome é Danielia Jeniffer, do Brasil (🇧🇷). Sou formada em Análise e Desencolvimento de Sistemas, atualmente atuo como desenvolvedora Web Pleno pela Empresômetro em Curitiba(PR).
 
 No meu tempo livre, gosto de assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵) e gosto muito de estudar novas tecnologias e codar :computer:. 
 
@@ -10,5 +10,6 @@ Minhas redes:
 
 - O que estou fazendo no momento?
 
-Aperfeiçoando conhecimentos em HTML e CSS com o curso do Professor Gustavo Guanabara:
-[Clique aqui para saber mais](https://www.cursoemvideo.com/course/novo-curso-html5-e-css3-100-atual-modulo-1/)
+Aperfeiçoando conhecimentos em Kubernetes com a Alura:
+[Kubernetes: Pods, Services e ConfigMaps]([https://www.cursoemvideo.com/course/novo-curso-html5-e-css3-100-atual-modulo-1/](https://cursos.alura.com.br/course/kubernetes-pods-services-configmap)https://cursos.alura.com.br/course/kubernetes-pods-services-configmap)
+[Google Kubernetes Engine: avançando com GKE](https://cursos.alura.com.br/course/google-kubernetes-engine-avancando-gke)
