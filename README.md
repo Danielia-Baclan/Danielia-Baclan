@@ -11,5 +11,7 @@ Minhas redes:
 - O que estou fazendo no momento?
 
 Aperfeiçoando conhecimentos em Kubernetes com a Alura:
+
 [Kubernetes: Pods, Services e ConfigMaps]([https://www.cursoemvideo.com/course/novo-curso-html5-e-css3-100-atual-modulo-1/](https://cursos.alura.com.br/course/kubernetes-pods-services-configmap)https://cursos.alura.com.br/course/kubernetes-pods-services-configmap)
+
 [Google Kubernetes Engine: avançando com GKE](https://cursos.alura.com.br/course/google-kubernetes-engine-avancando-gke)
